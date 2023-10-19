@@ -1,11 +1,1 @@
-# this is header 1
-#  this is header 2
-
-
-
-
-
-
-
-
-We have made header content changes
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
